@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5853899-211d-4c96-a381-3055ff58d6b0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/data_struct_lab/examples/BinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/data_struct_lab/examples/TwoPointer/TwoPointer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/data_struct_lab/examples/TwoPointer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/data_struct_lab/examples/Arrays/SlidingWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/data_struct_lab/examples/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/data_struct_lab/examples/Arrays/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/data_struct_lab/examples/TwoPointer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/data_struct_lab/examples/Arrays/TwoPointer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +38,7 @@
   "keyToString": {
     "Application.BinarySearch.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.SlidingWindow.executor": "Run",
     "Application.TwoPointer.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -51,13 +54,31 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.BinarySearch">
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SlidingWindow">
     <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.data_struct_lab.examples.BinarySearch" />
+      <option name="MAIN_CLASS_NAME" value="com.data_struct_lab.examples.Arrays.BinarySearch" />
       <module name="data_struct_lab" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.data_struct_lab.examples.*" />
+          <option name="PATTERN" value="com.data_struct_lab.examples.Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SlidingWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.data_struct_lab.examples.Arrays.SlidingWindow" />
+      <module name="data_struct_lab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.data_struct_lab.examples.Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,7 +87,7 @@
       </method>
     </configuration>
     <configuration name="TwoPointer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.data_struct_lab.examples.TwoPointer" />
+      <option name="MAIN_CLASS_NAME" value="com.data_struct_lab.examples.Arrays.TwoPointer" />
       <module name="data_struct_lab" />
       <extension name="coverage">
         <pattern>
@@ -80,6 +101,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SlidingWindow" />
         <item itemvalue="Application.BinarySearch" />
         <item itemvalue="Application.TwoPointer" />
       </list>
@@ -101,7 +123,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1744419450653</updated>
-      <workItem from="1744419451770" duration="969000" />
+      <workItem from="1744419451770" duration="2753000" />
     </task>
     <servers />
   </component>

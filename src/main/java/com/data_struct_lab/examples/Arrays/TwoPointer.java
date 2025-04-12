@@ -1,4 +1,4 @@
-package com.data_struct_lab.examples;
+package com.data_struct_lab.examples.Arrays;
 
 public class TwoPointer {
 
