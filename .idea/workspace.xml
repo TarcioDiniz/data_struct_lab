@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5853899-211d-4c96-a381-3055ff58d6b0" name="Changes" comment="" />
+    <list default="true" id="f5853899-211d-4c96-a381-3055ff58d6b0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/data_struct_lab/examples/arrays/exercise/_11ContainerWithMostWater/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,6 +44,7 @@
     "Application.com.data_struct_lab.examples.arrays.exercise._1534CountGoodTriplets.Solution.executor": "Run",
     "Application.com.data_struct_lab.examples.arrays.exercise._1TwoSum.Solution.executor": "Run",
     "Application.com.data_struct_lab.examples.arrays.exercise._283MoveZeroes.Solution.executor": "Run",
+    "Application.com.data_struct_lab.examples.arrays.exercise._392IsSubsequence.Solution.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "com.codeium.enabled": "true",
@@ -60,13 +64,13 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.data_struct_lab.examples.arrays.exercise._392IsSubsequence.Solution">
-    <configuration name="TwoPointer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.data_struct_lab.examples.arrays.TwoPointer" />
+  <component name="RunManager" selected="Application.Solution">
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.data_struct_lab.examples.arrays.exercise._11ContainerWithMostWater.Solution" />
       <module name="data_struct_lab" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.data_struct_lab.examples.arrays.*" />
+          <option name="PATTERN" value="com.data_struct_lab.examples.arrays.exercise._11ContainerWithMostWater.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.data_struct_lab.examples.arrays.exercise._1534CountGoodTriplets.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.data_struct_lab.examples.arrays.exercise._1534CountGoodTriplets.Solution" />
+    <configuration name="TwoPointer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.data_struct_lab.examples.arrays.TwoPointer" />
       <module name="data_struct_lab" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.data_struct_lab.examples.arrays.exercise._1534CountGoodTriplets.*" />
+          <option name="PATTERN" value="com.data_struct_lab.examples.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.com.data_struct_lab.examples.arrays.exercise._392IsSubsequence.Solution" />
         <item itemvalue="Application.com.data_struct_lab.examples.arrays.exercise._283MoveZeroes.Solution" />
         <item itemvalue="Application.com.data_struct_lab.examples.arrays.exercise._1TwoSum.Solution" />
         <item itemvalue="Application.TwoPointer" />
-        <item itemvalue="Application.com.data_struct_lab.examples.arrays.exercise._1534CountGoodTriplets.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -153,7 +157,7 @@
       <option name="presentableId" value="Default" />
       <updated>1744419450653</updated>
       <workItem from="1744419451770" duration="3862000" />
-      <workItem from="1744631267761" duration="6948000" />
+      <workItem from="1744631267761" duration="7464000" />
     </task>
     <servers />
   </component>
