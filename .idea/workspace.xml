@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5853899-211d-4c96-a381-3055ff58d6b0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/data_struct_lab/examples/Arrays/HashMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/data_struct_lab/examples/arrays/exercise/_219ContainsDuplicateII/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +39,7 @@
     "Application.HashMap.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.SlidingWindow.executor": "Run",
+    "Application.Solution.executor": "Run",
     "Application.TwoPointer.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -60,7 +60,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HashMap">
+  <component name="RunManager" selected="Application.Solution">
     <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.data_struct_lab.examples.arrays.BinarySearch" />
       <module name="data_struct_lab" />
@@ -113,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoPointer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.data_struct_lab.examples.arrays.TwoPointer" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.data_struct_lab.examples.arrays.exercise._219ContainsDuplicateII.Solution" />
       <module name="data_struct_lab" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value=".*" />
+          <option name="PATTERN" value="com.data_struct_lab.examples.arrays.exercise._219ContainsDuplicateII.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.SlidingWindow" />
         <item itemvalue="Application.HashMap" />
         <item itemvalue="Application.ExponentialSearch" />
-        <item itemvalue="Application.SlidingWindow" />
         <item itemvalue="Application.BinarySearch" />
-        <item itemvalue="Application.TwoPointer" />
       </list>
     </recent_temporary>
   </component>
@@ -153,7 +153,7 @@
       <option name="presentableId" value="Default" />
       <updated>1744419450653</updated>
       <workItem from="1744419451770" duration="3862000" />
-      <workItem from="1744631267761" duration="155000" />
+      <workItem from="1744631267761" duration="3267000" />
     </task>
     <servers />
   </component>
