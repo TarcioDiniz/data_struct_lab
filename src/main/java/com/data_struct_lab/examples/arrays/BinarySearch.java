@@ -1,4 +1,4 @@
-package com.data_struct_lab.examples.Arrays;
+package com.data_struct_lab.examples.arrays;
 
 public class BinarySearch {
 

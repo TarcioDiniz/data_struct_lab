@@ -62,11 +62,11 @@
   </component>
   <component name="RunManager" selected="Application.HashMap">
     <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.data_struct_lab.examples.Arrays.BinarySearch" />
+      <option name="MAIN_CLASS_NAME" value="com.data_struct_lab.examples.arrays.BinarySearch" />
       <module name="data_struct_lab" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.data_struct_lab.examples.Arrays.*" />
+          <option name="PATTERN" value="com.data_struct_lab.examples.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,11 +75,11 @@
       </method>
     </configuration>
     <configuration name="ExponentialSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.data_struct_lab.examples.Arrays.ExponentialSearch" />
+      <option name="MAIN_CLASS_NAME" value="com.data_struct_lab.examples.arrays.ExponentialSearch" />
       <module name="data_struct_lab" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.data_struct_lab.examples.Arrays.*" />
+          <option name="PATTERN" value="com.data_struct_lab.examples.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,11 +88,11 @@
       </method>
     </configuration>
     <configuration name="HashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.data_struct_lab.examples.Arrays.HashMap" />
+      <option name="MAIN_CLASS_NAME" value="com.data_struct_lab.examples.arrays.HashMap" />
       <module name="data_struct_lab" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.data_struct_lab.examples.Arrays.*" />
+          <option name="PATTERN" value="com.data_struct_lab.examples.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,11 +101,11 @@
       </method>
     </configuration>
     <configuration name="SlidingWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.data_struct_lab.examples.Arrays.SlidingWindow" />
+      <option name="MAIN_CLASS_NAME" value="com.data_struct_lab.examples.arrays.SlidingWindow" />
       <module name="data_struct_lab" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.data_struct_lab.examples.Arrays.*" />
+          <option name="PATTERN" value="com.data_struct_lab.examples.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,7 +114,7 @@
       </method>
     </configuration>
     <configuration name="TwoPointer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.data_struct_lab.examples.Arrays.TwoPointer" />
+      <option name="MAIN_CLASS_NAME" value="com.data_struct_lab.examples.arrays.TwoPointer" />
       <module name="data_struct_lab" />
       <extension name="coverage">
         <pattern>

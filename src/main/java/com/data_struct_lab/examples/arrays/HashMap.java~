@@ -19,5 +19,5 @@ public class HashMap {
         String s = "leetcode";
         System.out.println(firstUniqChar(s));
     }
-    
+
 }
