@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5853899-211d-4c96-a381-3055ff58d6b0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/data_struct_lab/examples/arrays/exercise/_1071GreatestCommonDivisorofStrings/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/data_struct_lab/examples/arrays/exercise/_1431KidsWiththeGreatestNumberofCandies/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +41,7 @@
     "Application.SlidingWindow.executor": "Run",
     "Application.Solution.executor": "Run",
     "Application.TwoPointer.executor": "Run",
-    "Application.com.data_struct_lab.examples.arrays.exercise._1071GreatestCommonDivisorofStrings.Solution.executor": "Debug",
+    "Application.com.data_struct_lab.examples.arrays.exercise._1071GreatestCommonDivisorofStrings.Solution.executor": "Run",
     "Application.com.data_struct_lab.examples.arrays.exercise._1534CountGoodTriplets.Solution.executor": "Run",
     "Application.com.data_struct_lab.examples.arrays.exercise._1679MaxNumberofKSumPairs.Solution.executor": "Run",
     "Application.com.data_struct_lab.examples.arrays.exercise._1768MergeStringsAlternately.Solution.executor": "Run",
@@ -68,7 +67,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.data_struct_lab.examples.arrays.exercise._1071GreatestCommonDivisorofStrings.Solution">
+  <component name="RunManager" selected="Application.Solution">
     <configuration name="HashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.data_struct_lab.examples.arrays.HashMap" />
       <module name="data_struct_lab" />
@@ -95,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.data_struct_lab.examples.arrays.exercise._1071GreatestCommonDivisorofStrings.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.data_struct_lab.examples.arrays.exercise._1071GreatestCommonDivisorofStrings.Solution" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.data_struct_lab.examples.arrays.exercise._1431KidsWiththeGreatestNumberofCandies.Solution" />
       <module name="data_struct_lab" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.data_struct_lab.examples.arrays.exercise._1071GreatestCommonDivisorofStrings.*" />
+          <option name="PATTERN" value="com.data_struct_lab.examples.arrays.exercise._1431KidsWiththeGreatestNumberofCandies.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.data_struct_lab.examples.arrays.exercise._1679MaxNumberofKSumPairs.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.data_struct_lab.examples.arrays.exercise._1679MaxNumberofKSumPairs.Solution" />
+    <configuration name="com.data_struct_lab.examples.arrays.exercise._1071GreatestCommonDivisorofStrings.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.data_struct_lab.examples.arrays.exercise._1071GreatestCommonDivisorofStrings.Solution" />
       <module name="data_struct_lab" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.data_struct_lab.examples.arrays.exercise._1679MaxNumberofKSumPairs.*" />
+          <option name="PATTERN" value="com.data_struct_lab.examples.arrays.exercise._1071GreatestCommonDivisorofStrings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.com.data_struct_lab.examples.arrays.exercise._1071GreatestCommonDivisorofStrings.Solution" />
         <item itemvalue="Application.HashMap" />
         <item itemvalue="Application.SlidingWindow" />
         <item itemvalue="Application.com.data_struct_lab.examples.arrays.exercise._1768MergeStringsAlternately.Solution" />
-        <item itemvalue="Application.com.data_struct_lab.examples.arrays.exercise._1679MaxNumberofKSumPairs.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +160,7 @@
       <option name="presentableId" value="Default" />
       <updated>1744419450653</updated>
       <workItem from="1744419451770" duration="3862000" />
-      <workItem from="1744631267761" duration="14997000" />
+      <workItem from="1744631267761" duration="16589000" />
     </task>
     <servers />
   </component>
