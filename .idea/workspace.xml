@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5853899-211d-4c96-a381-3055ff58d6b0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/data_struct_lab/examples/arrays/exercise/_1431KidsWiththeGreatestNumberofCandies/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/data_struct_lab/examples/arrays/exercise/_605CanPlaceFlowers/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +67,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution">
+  <component name="RunManager" selected="Application.com.data_struct_lab.examples.arrays.exercise._605CanPlaceFlowers.Solution">
     <configuration name="HashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.data_struct_lab.examples.arrays.HashMap" />
       <module name="data_struct_lab" />
@@ -120,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.data_struct_lab.examples.arrays.exercise._1768MergeStringsAlternately.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.data_struct_lab.examples.arrays.exercise._1768MergeStringsAlternately.Solution" />
+    <configuration name="com.data_struct_lab.examples.arrays.exercise._605CanPlaceFlowers.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.data_struct_lab.examples.arrays.exercise._605CanPlaceFlowers.Solution" />
       <module name="data_struct_lab" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.data_struct_lab.examples.arrays.exercise._1768MergeStringsAlternately.*" />
+          <option name="PATTERN" value="com.data_struct_lab.examples.arrays.exercise._605CanPlaceFlowers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.data_struct_lab.examples.arrays.exercise._605CanPlaceFlowers.Solution" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.com.data_struct_lab.examples.arrays.exercise._1071GreatestCommonDivisorofStrings.Solution" />
         <item itemvalue="Application.HashMap" />
         <item itemvalue="Application.SlidingWindow" />
-        <item itemvalue="Application.com.data_struct_lab.examples.arrays.exercise._1768MergeStringsAlternately.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -160,7 +160,7 @@
       <option name="presentableId" value="Default" />
       <updated>1744419450653</updated>
       <workItem from="1744419451770" duration="3862000" />
-      <workItem from="1744631267761" duration="16589000" />
+      <workItem from="1744631267761" duration="17190000" />
     </task>
     <servers />
   </component>
