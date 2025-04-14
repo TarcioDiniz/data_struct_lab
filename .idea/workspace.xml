@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5853899-211d-4c96-a381-3055ff58d6b0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/data_struct_lab/examples/Arrays/ExponentialSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/data_struct_lab/examples/Arrays/HashMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,9 +24,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2vbgzLClJKMwdSXK9cM4YxPAbIn" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -35,6 +36,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.BinarySearch.executor": "Run",
+    "Application.ExponentialSearch.executor": "Run",
+    "Application.HashMap.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.SlidingWindow.executor": "Run",
     "Application.TwoPointer.executor": "Run",
@@ -57,7 +60,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ExponentialSearch">
+  <component name="RunManager" selected="Application.HashMap">
     <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.data_struct_lab.examples.Arrays.BinarySearch" />
       <module name="data_struct_lab" />
@@ -73,6 +76,19 @@
     </configuration>
     <configuration name="ExponentialSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.data_struct_lab.examples.Arrays.ExponentialSearch" />
+      <module name="data_struct_lab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.data_struct_lab.examples.Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.data_struct_lab.examples.Arrays.HashMap" />
       <module name="data_struct_lab" />
       <extension name="coverage">
         <pattern>
@@ -112,6 +128,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HashMap" />
         <item itemvalue="Application.ExponentialSearch" />
         <item itemvalue="Application.SlidingWindow" />
         <item itemvalue="Application.BinarySearch" />
@@ -135,7 +152,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1744419450653</updated>
-      <workItem from="1744419451770" duration="3620000" />
+      <workItem from="1744419451770" duration="3862000" />
+      <workItem from="1744631267761" duration="155000" />
     </task>
     <servers />
   </component>
