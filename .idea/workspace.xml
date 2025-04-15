@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5853899-211d-4c96-a381-3055ff58d6b0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/data_struct_lab/examples/arrays/exercise/_238ProductOfArrayExceptSelf/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/data_struct_lab/examples/arrays/exercise/_334IncreasingTripletSubsequence/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,11 +41,12 @@
     "Application.Solution.executor": "Run",
     "Application.TwoPointer.executor": "Debug",
     "Application.com.data_struct_lab.examples.arrays.exercise._1071GreatestCommonDivisorofStrings.Solution.executor": "Run",
-    "Application.com.data_struct_lab.examples.arrays.exercise._151ReverseWordsinAString.Solution.executor": "Debug",
+    "Application.com.data_struct_lab.examples.arrays.exercise._151ReverseWordsinAString.Solution.executor": "Run",
     "Application.com.data_struct_lab.examples.arrays.exercise._1534CountGoodTriplets.Solution.executor": "Run",
     "Application.com.data_struct_lab.examples.arrays.exercise._1679MaxNumberofKSumPairs.Solution.executor": "Run",
     "Application.com.data_struct_lab.examples.arrays.exercise._1768MergeStringsAlternately.Solution.executor": "Run",
     "Application.com.data_struct_lab.examples.arrays.exercise._1TwoSum.Solution.executor": "Run",
+    "Application.com.data_struct_lab.examples.arrays.exercise._238ProductOfArrayExceptSelf.Solution.executor": "Run",
     "Application.com.data_struct_lab.examples.arrays.exercise._283MoveZeroes.Solution.executor": "Run",
     "Application.com.data_struct_lab.examples.arrays.exercise._345ReverseVowelsofAString.Solution.executor": "Run",
     "Application.com.data_struct_lab.examples.arrays.exercise._392IsSubsequence.Solution.executor": "Run",
@@ -164,7 +164,7 @@
       <updated>1744419450653</updated>
       <workItem from="1744419451770" duration="3862000" />
       <workItem from="1744631267761" duration="18509000" />
-      <workItem from="1744750951149" duration="2990000" />
+      <workItem from="1744750951149" duration="3325000" />
     </task>
     <servers />
   </component>
