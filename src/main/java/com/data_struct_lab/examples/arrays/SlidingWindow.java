@@ -20,8 +20,8 @@ public class SlidingWindow {
     }
 
     public static void main(String[] args) {
-        char[] arr = {'A', 'B', 'C', 'A', 'B', 'C'};
-        System.out.println(findMaxLengthSubstring(arr, 'A'));
-    }
 
+    char[] arr = {'A', 'B', 'C', 'A', 'B', 'C'};
+        System.out.println(findMaxLengthSubstring(arr, 'A'));
+}
 }
